@@ -1,3 +1,13 @@
+h1 {
+    font-family: 'Pokemon Solid';
+    font-size: 100px;
+    letter-spacing: 15px;
+    color: #ffcd05;
+    -webkit-text-stroke: 3px #0c4885;
+    text-align: center;
+}
+
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
