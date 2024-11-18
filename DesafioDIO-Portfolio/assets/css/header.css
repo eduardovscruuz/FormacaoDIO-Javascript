@@ -66,8 +66,8 @@
     margin-right: .5rem;
 }
 
-.information .position::before {
-    background-image: url('/assets/icons/position.svg');
+.information .job::before {
+    background-image: url('/assets/icons/job.svg');
 }
 
 .information .location::before {

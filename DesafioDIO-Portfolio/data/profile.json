@@ -1,27 +1,27 @@
 {
     "name": "Eduardo Cruz",
-    "photo": "https://avatars.githubusercontent.com/u/111942986?v=4",
     "job": "Desenvolvedor Full Stack",
     "location": "Rio de Janeiro - BR",
     "phone": "(21) 98270-5996",
     "email": "eduardovscruuz@gmail.com",
+    "site": "Portfólio Real",
     "skills": {
         "hardSkills": [
             {
                 "name": "CSharp",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/csharp.svg"
             },
             {
                 "name": "Javascript",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/javascript.svg"
             },
             {
                 "name": "React",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/react.svg"
             },
             {
                 "name": "Dotnet",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+                "logo": "https://raw.githubusercontent.com/eduardovscruuz/FormacaoDIO-Javascript/refs/heads/main/DesafioDIO-Portfolio/data/imgs/dotnet.svg"
             }
         ],
         "softSkills": [
