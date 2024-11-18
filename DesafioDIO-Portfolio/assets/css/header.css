@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     position: relative;
+    margin-bottom: 4rem;
 }
 
 .header::after {

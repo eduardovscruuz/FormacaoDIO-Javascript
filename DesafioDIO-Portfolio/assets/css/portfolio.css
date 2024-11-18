@@ -17,7 +17,7 @@
 
 }
 
-.portfolio li .title {
+.portfolio li h3 {
     font-size: 1.2rem;
     font-weight: 700;
     margin-bottom: .8rem;
@@ -32,7 +32,7 @@
     text-decoration: underline;
 }
 
-.portfolio li .title.github::before {
+.portfolio li h3.github::before {
     content: '';
     display: inline-block;
     width: 1rem;

@@ -33,8 +33,8 @@
 
 .acordeon .trigger::after {
     content: '';
-    display: inline-block;
-    width: 1.5rem;
+    display: flex;
+    min-width: 1.5rem;
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
@@ -44,6 +44,7 @@
 
 .acordeon.open .trigger::after {
     transform: rotate(180deg);
+
 }
 
 .acordeon .content {
@@ -51,6 +52,11 @@
     max-height: 0;
     opacity: 0;
     transition: .5s;
+
+}
+
+.trigger span {
+    text-align: start;
 }
 
 .acordeon.open .content {
