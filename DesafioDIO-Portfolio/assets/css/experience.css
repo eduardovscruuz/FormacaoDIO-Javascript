@@ -37,7 +37,7 @@
     text-align: justify;
 }
 
-h3::before {
+.experience h3::before {
     content: '';
     display: inline-block;
     width: 1rem;
@@ -48,7 +48,7 @@ h3::before {
     margin-right: .5rem;
 }
 
-h3 {
+.experience h3 {
     margin: 1rem 0rem 1rem 0rem;
     ;
     font-size: .9rem;
